@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ThePBone.BlueZNet</id>
+    <version>1.0.0</version>
+    <title>BlueZ library optimized for Bluetooth EDR/BR</title>
+    <authors>Tim Schneeberger (ThePBone)</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">GPL-3.0-or-later</license>
+    <licenseUrl>https://licenses.nuget.org/GPL-3.0-or-later</licenseUrl>
+    <description>BlueZ library optimized for Bluetooth EDR/BR. Implements a flexible RFCOMM client.</description>
+    <tags>BlueZ Bluetooth EDR-BR rfcomm spp net-core netstandard</tags>
+    <repository url="https://github.com/ThePBone/BluezNet" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Tmds.DBus" version="0.9.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/tim/RiderProjects/DBusTest/BlueZNet/bin/Debug/netstandard2.0/BlueZNet.dll" target="lib/netstandard2.0/BlueZNet.dll" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+/home/tim/RiderProjects/DBusTest/BlueZNet/bin/Debug/netstandard2.0/BlueZNet.deps.json
+/home/tim/RiderProjects/DBusTest/BlueZNet/bin/Debug/netstandard2.0/BlueZNet.dll
+/home/tim/RiderProjects/DBusTest/BlueZNet/bin/Debug/netstandard2.0/BlueZNet.pdb
+/home/tim/RiderProjects/DBusTest/BlueZNet/obj/Debug/netstandard2.0/BlueZNet.csprojAssemblyReference.cache
+/home/tim/RiderProjects/DBusTest/BlueZNet/obj/Debug/netstandard2.0/BlueZNet.AssemblyInfoInputs.cache
+/home/tim/RiderProjects/DBusTest/BlueZNet/obj/Debug/netstandard2.0/BlueZNet.AssemblyInfo.cs
+/home/tim/RiderProjects/DBusTest/BlueZNet/obj/Debug/netstandard2.0/BlueZNet.dll
+/home/tim/RiderProjects/DBusTest/BlueZNet/obj/Debug/netstandard2.0/BlueZNet.pdb
+/home/tim/RiderProjects/DBusTest/BlueZNet/obj/Debug/netstandard2.0/BlueZNet.csproj.CoreCompileInputs.cache

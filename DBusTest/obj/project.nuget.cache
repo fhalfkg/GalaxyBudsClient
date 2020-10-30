@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lbEGlD+m7XTmMkSz+NMmjf4pMMqLA4Hus4F+S8LtPl2yBZlv4BwzZt3DzNf7A1zDdezBGNXbcj773ghGz5lmw==",
+  "success": true,
+  "projectFilePath": "/home/tim/RiderProjects/DBusTest/DBusTest/DBusTest.csproj",
+  "expectedPackageFiles": [
+    "/home/tim/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/home/tim/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/home/tim/.nuget/packages/tmds.dbus/0.9.1/tmds.dbus.0.9.1.nupkg.sha512",
+    "/home/tim/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0-rc.2.20475.17/microsoft.aspnetcore.app.ref.5.0.0-rc.2.20475.17.nupkg.sha512"
+  ],
+  "logs": []
+}

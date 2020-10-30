@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_Galaxy Buds Client.-579433069.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Galaxy Buds Client" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="BluetoothService.cs" t="Include" />
+        <e p="Galaxy Buds Client.csproj" t="IncludeRecursive" />
+        <e p="InTheHand.Net.Personal.dll" t="Include" />
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="EBCDIC-NoSpecialChar.tbl" t="Include" />
+          <e p="EBCDIC.tbl" t="Include" />
+          <e p="anc_color.png" t="Include" />
+          <e p="battery" t="Include">
+            <e p="charging_overlay.png" t="Include" />
+            <e p="dim.png" t="Include" />
+            <e p="disconnected.png" t="Include" />
+            <e p="error.png" t="Include" />
+            <e p="full.png" t="Include" />
+            <e p="high.png" t="Include" />
+            <e p="low.png" t="Include" />
+            <e p="medium.png" t="Include" />
+          </e>
+          <e p="device" t="Include">
+            <e p="left_black.png" t="Include" />
+            <e p="left_gray.png" t="Include" />
+            <e p="left_gray_dim.png" t="Include" />
+            <e p="left_no_label_black.png" t="Include" />
+            <e p="left_no_label_white.png" t="Include" />
+            <e p="left_white.png" t="Include" />
+            <e p="neutral_gray.png" t="Include" />
+            <e p="neutral_white.png" t="Include" />
+            <e p="right_black.png" t="Include" />
+            <e p="right_gray.png" t="Include" />
+            <e p="right_gray_dim.png" t="Include" />
+            <e p="right_no_label_black.png" t="Include" />
+            <e p="right_no_label_white.png" t="Include" />
+            <e p="right_white.png" t="Include" />
+          </e>
+          <e p="devmode.png" t="Include" />
+          <e p="features" t="Include">
+            <e p="about_light.png" t="Include" />
+            <e p="about_light_dim.png" t="Include" />
+            <e p="advanced_color.png" t="Include" />
+            <e p="advanced_light.png" t="Include" />
+            <e p="anc_color.png" t="Include" />
+            <e p="equalizer_gray.png" t="Include" />
+            <e p="findmygear_color.png" t="Include" />
+            <e p="findmygear_light.png" t="Include" />
+            <e p="info_gray.png" t="Include" />
+            <e p="info_light.png" t="Include" />
+            <e p="labs_color.png" t="Include" />
+            <e p="notification_color.png" t="Include" />
+            <e p="notification_light.png" t="Include" />
+            <e p="sound_color.png" t="Include" />
+            <e p="sound_light.png" t="Include" />
+            <e p="touch_color.png" t="Include" />
+            <e p="touch_light.png" t="Include" />
+          </e>
+          <e p="findmygear" t="Include">
+            <e p="muted.png" t="Include" />
+            <e p="radar_circle.png" t="Include" />
+            <e p="start_gray.png" t="Include" />
+            <e p="start_lightgray.png" t="Include" />
+            <e p="start_white.png" t="Include" />
+            <e p="stop_white.png" t="Include" />
+            <e p="unmuted.png" t="Include" />
+          </e>
+          <e p="icon_white.ico" t="Include" />
+          <e p="navigation" t="Include">
+            <e p="LoadingSpinner.png" t="Include" />
+            <e p="back_dark.png" t="Include" />
+            <e p="back_light.png" t="Include" />
+            <e p="next_small_dark.png" t="Include" />
+            <e p="next_small_light.png" t="Include" />
+          </e>
+          <e p="warning.png" t="Include" />
+          <e p="window" t="Include">
+            <e p="window_close_light.png" t="Include" />
+            <e p="window_close_nor.png" t="Include" />
+            <e p="window_minimum_light.png" t="Include" />
+            <e p="window_minimum_nor.png" t="Include" />
+          </e>
+        </e>
+        <e p="app.manifest" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="i18N" t="Include">
+          <e p="cn.xaml" t="Include" />
+          <e p="de.xaml" t="Include" />
+          <e p="en.xaml" t="Include" />
+          <e p="es.xaml" t="Include" />
+          <e p="ja.xaml" t="Include" />
+          <e p="ko.xaml" t="Include" />
+          <e p="ru.xaml" t="Include" />
+          <e p="tr.xaml" t="Include" />
+          <e p="ua.xaml" t="Include" />
+        </e>
+        <e p="message" t="Include">
+          <e p="SPPMessage.cs" t="Include" />
+          <e p="SPPMessageBuilder.cs" t="Include" />
+          <e p="SPPMessageHandler.cs" t="Include" />
+          <e p="SPPMessageParserFactory.cs" t="Include" />
+          <e p="SPPMessagePrivate.cs" t="Include" />
+        </e>
+        <e p="model" t="Include">
+          <e p="Constants.cs" t="Include" />
+          <e p="CustomAction.cs" t="Include" />
+          <e p="DescriptionAttribute.cs" t="Include" />
+          <e p="DeviceAttribute.cs" t="Include" />
+          <e p="LocalizedDescriptionAttribute.cs" t="Include" />
+          <e p="PostfixAttribute.cs" t="Include" />
+          <e p="PropViewModel.cs" t="Include" />
+          <e p="RecvMsgViewHolder.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="parser" t="Include">
+          <e p="AmbientModeUpdateParser.cs" t="Include" />
+          <e p="AmbientVoiceFocusParser.cs" t="Include" />
+          <e p="AmbientVolumeParser.cs" t="Include" />
+          <e p="AmbientWearingUpdateParser.cs" t="Include" />
+          <e p="BaseMessageParser.cs" t="Include" />
+          <e p="BatteryTypeParser.cs" t="Include" />
+          <e p="DebugBuildInfoParser.cs" t="Include" />
+          <e p="DebugGetAllDataParser.cs" t="Include" />
+          <e p="DebugModeVersionParser.cs" t="Include" />
+          <e p="DebugSerialNumberParser.cs" t="Include" />
+          <e p="DebugSkuParser.cs" t="Include" />
+          <e p="ExtendedStatusUpdateParser.cs" t="Include" />
+          <e p="GenericResponseParser.cs" t="Include" />
+          <e p="MuteUpdateParser.cs" t="Include" />
+          <e p="NoiseReductionModeUpdateParser.cs" t="Include" />
+          <e p="ResetResponseParser.cs" t="Include" />
+          <e p="SelfTestParser.cs" t="Include" />
+          <e p="SetInBandRingtoneParser.cs" t="Include" />
+          <e p="SetOtherOptionParser.cs" t="Include" />
+          <e p="SoftwareVersionOTAParser.cs" t="Include" />
+          <e p="SppRoleStateParser.cs" t="Include" />
+          <e p="StatusUpdateParser.cs" t="Include" />
+          <e p="TouchUpdateParser.cs" t="Include" />
+          <e p="UsageReportParser.cs" t="Include" />
+        </e>
+        <e p="transition" t="Include">
+          <e p="CenterConverter.cs" t="Include" />
+          <e p="HeightConverter.cs" t="Include" />
+          <e p="InvertConverter.cs" t="Include" />
+          <e p="PageTransition.xaml" t="Include" />
+          <e p="PageTransition.xaml.cs" t="Include" />
+          <e p="PageTransitionType.cs" t="Include" />
+          <e p="WidthConverter.cs" t="Include" />
+        </e>
+        <e p="ui" t="Include">
+          <e p="AdvancedPage.xaml" t="Include" />
+          <e p="AdvancedPage.xaml.cs" t="Include" />
+          <e p="AmbientSoundPage.xaml" t="Include" />
+          <e p="AmbientSoundPage.xaml.cs" t="Include" />
+          <e p="BasePage.cs" t="Include" />
+          <e p="ConnectionLostPage.xaml" t="Include" />
+          <e p="ConnectionLostPage.xaml.cs" t="Include" />
+          <e p="CreditsPage.xaml" t="Include" />
+          <e p="CreditsPage.xaml.cs" t="Include" />
+          <e p="CustomActionPage.xaml" t="Include" />
+          <e p="CustomActionPage.xaml.cs" t="Include" />
+          <e p="DeviceSelectPage.xaml" t="Include" />
+          <e p="DeviceSelectPage.xaml.cs" t="Include" />
+          <e p="EqualizerPage.xaml" t="Include" />
+          <e p="EqualizerPage.xaml.cs" t="Include" />
+          <e p="FactoryResetPage.xaml" t="Include" />
+          <e p="FactoryResetPage.xaml.cs" t="Include" />
+          <e p="FindMyGearPage.xaml" t="Include" />
+          <e p="FindMyGearPage.xaml.cs" t="Include" />
+          <e p="MainPage.xaml" t="Include" />
+          <e p="MainPage.xaml.cs" t="Include" />
+          <e p="PopupSettingPage.xaml" t="Include" />
+          <e p="PopupSettingPage.xaml.cs" t="Include" />
+          <e p="SelfTestPage.xaml" t="Include" />
+          <e p="SelfTestPage.xaml.cs" t="Include" />
+          <e p="SettingPage.xaml" t="Include" />
+          <e p="SettingPage.xaml.cs" t="Include" />
+          <e p="SystemPage.xaml" t="Include" />
+          <e p="SystemPage.xaml.cs" t="Include" />
+          <e p="TouchpadPage.xaml" t="Include" />
+          <e p="TouchpadPage.xaml.cs" t="Include" />
+          <e p="UnsupportedFeaturePage.xaml" t="Include" />
+          <e p="UnsupportedFeaturePage.xaml.cs" t="Include" />
+          <e p="UpdatePage.xaml" t="Include" />
+          <e p="UpdatePage.xaml.cs" t="Include" />
+          <e p="WelcomePage.xaml" t="Include" />
+          <e p="WelcomePage.xaml.cs" t="Include" />
+          <e p="basewindow" t="Include">
+            <e p="SWStyles.xaml" t="Include" />
+            <e p="SWWindow.Sizing.cs" t="Include" />
+            <e p="SWWindow.cs" t="Include" />
+          </e>
+          <e p="devmode" t="Include">
+            <e p="DevWindow.xaml" t="Include" />
+            <e p="DevWindow.xaml.cs" t="Include" />
+            <e p="TranslatorMode.xaml" t="Include" />
+            <e p="TranslatorMode.xaml.cs" t="Include" />
+          </e>
+          <e p="dialog" t="Include">
+            <e p="BudsPopup.xaml" t="Include" />
+            <e p="BudsPopup.xaml.cs" t="Include" />
+            <e p="HotkeyRecorder.xaml" t="Include" />
+            <e p="HotkeyRecorder.xaml.cs" t="Include" />
+            <e p="InputDialog.xaml" t="Include" />
+            <e p="InputDialog.xaml.cs" t="Include" />
+          </e>
+          <e p="element" t="Include">
+            <e p="CheckableDetailListItem.xaml" t="Include" />
+            <e p="CheckableDetailListItem.xaml.cs" t="Include" />
+            <e p="DetailListItem.xaml" t="Include" />
+            <e p="DetailListItem.xaml.cs" t="Include" />
+            <e p="ListItem.xaml" t="Include" />
+            <e p="ListItem.xaml.cs" t="Include" />
+            <e p="ListItemCenter.xaml" t="Include" />
+            <e p="ListItemCenter.xaml.cs" t="Include" />
+            <e p="LoadingSpinner.xaml" t="Include" />
+            <e p="LoadingSpinner.xaml.cs" t="Include" />
+            <e p="MuteButton.xaml" t="Include" />
+            <e p="MuteButton.xaml.cs" t="Include" />
+            <e p="ScannerButton.xaml" t="Include" />
+            <e p="ScannerButton.xaml.cs" t="Include" />
+            <e p="Slider.xaml" t="Include" />
+            <e p="TextBoxMasking.cs" t="Include" />
+            <e p="ToggleSwitch.xaml" t="Include" />
+            <e p="ToggleSwitch.xaml.cs" t="Include" />
+          </e>
+          <e p="themes" t="Include">
+            <e p="Brushes.xaml" t="Include" />
+            <e p="BrushesDark.xaml" t="Include" />
+            <e p="Styles.xaml" t="Include" />
+            <e p="TrayContextStyles.xaml" t="Include" />
+          </e>
+        </e>
+        <e p="util" t="Include">
+          <e p="AudioPlaybackDetection.cs" t="Include" />
+          <e p="AutoStartHelper.cs" t="Include" />
+          <e p="ByteArrayUtils.cs" t="Include" />
+          <e p="CRC16.cs" t="Include" />
+          <e p="DarkModeHelper.cs" t="Include" />
+          <e p="EnumHelper.cs" t="Include" />
+          <e p="Hex.cs" t="Include" />
+          <e p="Localization.cs" t="Include" />
+          <e p="NativeUtils.cs" t="Include" />
+          <e p="SystemHelper.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Galaxy Buds Client.sln" t="IncludeFlat" />
+      <e p="PackagingProject" t="IncludeRecursive">
+        <e p="Images" t="Include">
+          <e p="LargeTile.scale-100.png" t="Include" />
+          <e p="LargeTile.scale-125.png" t="Include" />
+          <e p="LargeTile.scale-150.png" t="Include" />
+          <e p="LargeTile.scale-200.png" t="Include" />
+          <e p="LargeTile.scale-400.png" t="Include" />
+          <e p="LockScreenLogo.scale-200.png" t="Include" />
+          <e p="SmallTile.scale-100.png" t="Include" />
+          <e p="SmallTile.scale-125.png" t="Include" />
+          <e p="SmallTile.scale-150.png" t="Include" />
+          <e p="SmallTile.scale-200.png" t="Include" />
+          <e p="SmallTile.scale-400.png" t="Include" />
+          <e p="SplashScreen.scale-100.png" t="Include" />
+          <e p="SplashScreen.scale-125.png" t="Include" />
+          <e p="SplashScreen.scale-150.png" t="Include" />
+          <e p="SplashScreen.scale-200.png" t="Include" />
+          <e p="SplashScreen.scale-400.png" t="Include" />
+          <e p="Square150x150Logo.scale-100.png" t="Include" />
+          <e p="Square150x150Logo.scale-125.png" t="Include" />
+          <e p="Square150x150Logo.scale-150.png" t="Include" />
+          <e p="Square150x150Logo.scale-200.png" t="Include" />
+          <e p="Square150x150Logo.scale-400.png" t="Include" />
+          <e p="Square44x44Logo.altform-lightunplated_targetsize-16.png" t="Include" />
+          <e p="Square44x44Logo.altform-lightunplated_targetsize-24.png" t="Include" />
+          <e p="Square44x44Logo.altform-lightunplated_targetsize-256.png" t="Include" />
+          <e p="Square44x44Logo.altform-lightunplated_targetsize-32.png" t="Include" />
+          <e p="Square44x44Logo.altform-lightunplated_targetsize-48.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-16.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-256.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-32.png" t="Include" />
+          <e p="Square44x44Logo.altform-unplated_targetsize-48.png" t="Include" />
+          <e p="Square44x44Logo.scale-100.png" t="Include" />
+          <e p="Square44x44Logo.scale-125.png" t="Include" />
+          <e p="Square44x44Logo.scale-150.png" t="Include" />
+          <e p="Square44x44Logo.scale-200.png" t="Include" />
+          <e p="Square44x44Logo.scale-400.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-16.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-24.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-24_altform-unplated.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-256.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-32.png" t="Include" />
+          <e p="Square44x44Logo.targetsize-48.png" t="Include" />
+          <e p="StoreLogo.scale-100.png" t="Include" />
+          <e p="StoreLogo.scale-125.png" t="Include" />
+          <e p="StoreLogo.scale-150.png" t="Include" />
+          <e p="StoreLogo.scale-200.png" t="Include" />
+          <e p="StoreLogo.scale-400.png" t="Include" />
+          <e p="Wide310x150Logo.scale-100.png" t="Include" />
+          <e p="Wide310x150Logo.scale-125.png" t="Include" />
+          <e p="Wide310x150Logo.scale-150.png" t="Include" />
+          <e p="Wide310x150Logo.scale-200.png" t="Include" />
+          <e p="Wide310x150Logo.scale-400.png" t="Include" />
+        </e>
+        <e p="Package.StoreAssociation.xml" t="Include" />
+        <e p="Package.appxmanifest" t="Include" />
+        <e p="PackagingProject.wapproj" t="IncludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

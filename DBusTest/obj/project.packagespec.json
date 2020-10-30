@@ -1,0 +1,62 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/tim/RiderProjects/DBusTest/DBusTest/DBusTest.csproj",
+    "projectName": "DBusTest",
+    "projectPath": "/home/tim/RiderProjects/DBusTest/DBusTest/DBusTest.csproj",
+    "outputPath": "/home/tim/RiderProjects/DBusTest/DBusTest/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp5.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {
+          "/home/tim/RiderProjects/DBusTest/BlueZNet/BlueZNet.csproj": {
+            "projectPath": "/home/tim/RiderProjects/DBusTest/BlueZNet/BlueZNet.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "Tmds.DBus": {
+          "target": "Package",
+          "version": "[0.9.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "downloadDependencies": [
+        {
+          "name": "Microsoft.AspNetCore.App.Ref",
+          "version": "[5.0.0-rc.2.20475.17, 5.0.0-rc.2.20475.17]"
+        }
+      ],
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.100-rc.2.20479.15/RuntimeIdentifierGraph.json"
+    }
+  }
+}
