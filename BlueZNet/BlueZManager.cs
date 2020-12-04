@@ -9,6 +9,21 @@ namespace ThePBone.BlueZNet
 {
     public static class BlueZManager
     {
+        public static async Task<bool> isBlueZ5()
+        {
+            var objectManager = Connection.System.CreateProxy<IObjectManager>(BluezConstants.DbusService, "/");
+            try
+            {
+                var objects = await objectManager.GetManagedObjectsAsync();
+            }
+            catch(DBusException)
+            {
+                return false;
+            }
+
+            return true;
+        }
+        
         public static async Task<Adapter> GetAdapterAsync(string adapterName)
         {
             var adapterObjectPath = $"/org/bluez/{adapterName}";

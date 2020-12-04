@@ -1,3 +1,8 @@
+/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.csprojAssemblyReference.cache
+/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.AssemblyInfoInputs.cache
+/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.AssemblyInfo.cs
+/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.csproj.CoreCompileInputs.cache
 /home/tim/RiderProjects/DBusTest/DBusTest/bin/Debug/netcoreapp5.0/DBusTest
 /home/tim/RiderProjects/DBusTest/DBusTest/bin/Debug/netcoreapp5.0/DBusTest.deps.json
 /home/tim/RiderProjects/DBusTest/DBusTest/bin/Debug/netcoreapp5.0/DBusTest.runtimeconfig.json
@@ -8,11 +13,6 @@
 /home/tim/RiderProjects/DBusTest/DBusTest/bin/Debug/netcoreapp5.0/Tmds.DBus.dll
 /home/tim/RiderProjects/DBusTest/DBusTest/bin/Debug/netcoreapp5.0/BlueZNet.dll
 /home/tim/RiderProjects/DBusTest/DBusTest/bin/Debug/netcoreapp5.0/BlueZNet.pdb
-/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.csprojAssemblyReference.cache
-/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.GeneratedMSBuildEditorConfig.editorconfig
-/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.AssemblyInfoInputs.cache
-/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.AssemblyInfo.cs
-/home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.csproj.CoreCompileInputs.cache
 /home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.csproj.CopyComplete
 /home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/DBusTest.dll
 /home/tim/RiderProjects/DBusTest/DBusTest/obj/Debug/netcoreapp5.0/ref/DBusTest.dll
